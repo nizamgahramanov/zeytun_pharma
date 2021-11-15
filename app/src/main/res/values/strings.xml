@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ZeytunPharma</string>
+    <string name="connection_error_title">Connection error</string>
+    <string name="connection_error_message">Unable to fetch orders. Check your internet connection and try again.</string>
+    <string name="retry_label">Retry</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_account">Account</string>
+    <string name="cd_navigate_up">Navigate up</string>
+    <string name="cd_add">Add</string>
+    <string name="cd_more">More</string>
+    <string name="cd_play">Play</string>
+    <string name="home_current">Current</string>
+    <string name="home_history">History</string>
+    <string name="submit">Submit</string>
+    <string name="test_text">4.1 Mehlullar</string>
+    <string name="cd_unsubmitted">unsubmitted</string>
+    <string name="cd_submitted">submitted</string>
+    <string name="label_back">Back</string>
+    <string name="search_order">Search Order</string>
+    <string name="label_search">Perform Search</string>
+    <string name="search_no_matches">No matches for “%1s”</string>
+    <string name="search_no_matches_retry">Try broadening your search</string>
+    <string name="app_tagline">For Better Order Management</string>
+    <string name="sign_in_create_account">Sign in or create an account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="user_continue">CONTINUE</string>
+    <string name="sign_in">Sign in</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="validation_text">Email or Password is wrong</string>
+</resources>
